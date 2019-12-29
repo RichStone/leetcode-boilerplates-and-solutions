@@ -1,8 +1,10 @@
+# mini boiler
 
 
 if __name__ == '__main__':
     print('Test Run:')
 
+# boiler with one input
 
 
 if __name__ == '__main__':
@@ -19,3 +21,4 @@ if __name__ == '__main__':
         output = sol.isPalindrome(input)
         print('output: ' + output)
         print('#############')
+
